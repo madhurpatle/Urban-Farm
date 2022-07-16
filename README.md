@@ -1,4 +1,4 @@
-# E-Mandi
+# Urban Farm
 
 E-Mandi is an app that helps farmers get reach to their potential buyers and markets in an efficient and elaborate way. This is achieved by elimination of middle men in the farmers value chain by deploying machine learning models of the market current trends and suggesting the best patterns of market demands with the changing dynamics of the economy.
 
